@@ -1,3 +1,4 @@
+//Verifique se um número digitado pelo usuário é positivo ou negativo. Mostre um alerta informando.
 alert('Olá');
 let numero = prompt('Digite um número positivo ou negativo');
 
