@@ -17,7 +17,9 @@ let nomes = ['Eudora', 'Íris', 'Sam'];
 console.log(nomes[0]);
 
 // Crie uma lista com 3 nomes e exiba no console apenas o segundo elemento.
-nomes = console.log(nomes[1]);
+let nome = ['Joana', 'João', 'José'];
+console.log(nome[1]);
 
 // Criando uma lista com 3 nomes e exibindo o último elemento
-nomes = console.log(nomes[nomes.length - 1]);
+let names = ['Eudóxia', 'Stanley', 'Fançoá'];
+console.log(names[names.length - 1]);
